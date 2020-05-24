@@ -14,6 +14,7 @@ class App extends Component {
     }
 
     // this.handleChange = this.handleChange.bind(this);
+    // inserted from copy folder
   }
   componentDidMount(){
     fetch('https://jsonplaceholder.typicode.com/users')
