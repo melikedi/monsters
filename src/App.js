@@ -15,6 +15,7 @@ class App extends Component {
 
     // this.handleChange = this.handleChange.bind(this);
     // inserted from copy folder
+    //newBranch
     // littlefeature
   }
   componentDidMount(){
